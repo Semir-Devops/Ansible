@@ -52,6 +52,7 @@
 ## green.example.com
 ## blue.example.com
 
+## Semir-devops hosts divided into groups
 [production]
 ip-###.###.###.###
 
